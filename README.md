@@ -9,7 +9,7 @@ A non-preemptive scheduling algorithm where processes are executed in the order 
 
 2. SJF (Shortest Job First)
 
-A scheduling algorithm that prioritizes the process with the shortest burst time. It can be either preemptive (Shortest Remaining Time First - SRTF) or non-preemptive.
+A scheduling algorithm that prioritizes the process with the shortest burst time. It can be either preemptive (Shortest Remaining Time First - SRTF) or non-preemptive.(in this project it is non-preemptive)
 
 3. Round Robin
    
@@ -28,5 +28,17 @@ The time taken from when a process arrives until it gets the CPU for the first t
 3. Waiting Time
 
 The total time a process spends waiting in the ready queue (not executing).
+
+Below are some example inputs and their expected outputs, demonstrating the objective of our project.
+
+FCFS :
+
+<img width="419" alt="1" src="https://github.com/user-attachments/assets/494197d8-b82f-4e33-9fa5-b97fd1dcce7d" />
+
+SJF :
+
+<img width="421" alt="2" src="https://github.com/user-attachments/assets/721210eb-c03b-4ffd-8fe4-c57ced0fd940" />
+
+
 
 
