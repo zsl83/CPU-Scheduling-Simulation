@@ -33,11 +33,12 @@ Below are some example inputs and their expected outputs, demonstrating the obje
 
 FCFS :
 
-<img width="419" alt="1" src="https://github.com/user-attachments/assets/494197d8-b82f-4e33-9fa5-b97fd1dcce7d" />
+<img width="580" alt="1+" src="https://github.com/user-attachments/assets/569b4468-166c-436f-b7b6-0b33b3696e19" />
 
 SJF :
 
-<img width="421" alt="2" src="https://github.com/user-attachments/assets/721210eb-c03b-4ffd-8fe4-c57ced0fd940" />
+<img width="581" alt="2+" src="https://github.com/user-attachments/assets/860def82-590b-43e2-9d72-e9033e0b5a78" />
+
 
 
 
